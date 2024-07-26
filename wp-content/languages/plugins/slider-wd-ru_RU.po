@@ -1,0 +1,88 @@
+# Translation of Plugins - Sliderby10Web - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Sliderby10Web - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-13 12:11:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Sliderby10Web - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://web-dorado.com/"
+msgstr "https://web-dorado.com/"
+
+#. Author of the plugin/theme
+msgid "WebDorado"
+msgstr "WebDorado"
+
+#. Description of the plugin/theme
+msgid "This is a responsive plugin, which allows adding sliders to your posts/pages and to custom location. It uses large number of transition effects and supports various types of layers."
+msgstr "Это адаптивный плагин, который позволяет добавлять слайдеры к вашим записям/страницам и в произвольное место. Он использует большое количество эффектов перехода и поддерживает различные типы слоев."
+
+#. Plugin URI of the plugin/theme
+msgid "https://web-dorado.com/products/wordpress-slider-plugin.html"
+msgstr "https://web-dorado.com/products/wordpress-slider-plugin.html"
+
+#. Plugin Name of the plugin/theme
+msgid "Slider WD"
+msgstr "Slider WD"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Получить некоторую помощь"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Ознакомьтесь с Руководством пользователя"
+
+#: sliders-notices.php:200
+msgid "Thank you for using WordPress %s! We hope that you've found everything you need, but if you have any questions:"
+msgstr "Спасибо за использование WordPress %s! Мы надеемся, что вы нашли все, что вам нужно, но если у вас есть вопросы:"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Привет! Как дела?"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Никогда не показывать"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Я уже оставил свой отзыв"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Конечно! Я бы хотел!"
+
+#: sliders-notices.php:189
+msgid "We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on WordPress.org?"
+msgstr "Мы надеемся, что вам понравилось использовать WordPress %s! Не могли бы вы оставить свой отзыв на WordPress.org?"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Оставить отзыв?"
+
+#: frontend/views/WDSViewSlider.php:1812
+msgid "Play"
+msgstr "Начать"
+
+#: frontend/views/WDSViewSlider.php:1780 frontend/views/WDSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: frontend/views/WDSViewSlider.php:46
+msgid "There are no slides in this slider."
+msgstr "В этом слайдере нет изображений."
+
+#: frontend/views/WDSViewSlider.php:29
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Слайдер не выбрана или была удалена."
